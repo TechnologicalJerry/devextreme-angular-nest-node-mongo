@@ -45,7 +45,7 @@ export class CreateAccountFormComponent {
     DxFormModule,
     DxLoadIndicatorModule
   ],
-  declarations: [ CreateAccountFormComponent ],
-  exports: [ CreateAccountFormComponent ]
+  declarations: [CreateAccountFormComponent],
+  exports: [CreateAccountFormComponent]
 })
 export class CreateAccountFormModule { }
