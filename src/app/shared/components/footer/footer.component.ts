@@ -13,7 +13,7 @@ export class FooterComponent {
 }
 
 @NgModule({
-  declarations: [ FooterComponent ],
-  exports: [ FooterComponent ]
+  declarations: [FooterComponent],
+  exports: [FooterComponent]
 })
 export class FooterModule { }
