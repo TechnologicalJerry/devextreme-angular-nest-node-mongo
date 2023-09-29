@@ -51,7 +51,7 @@ export class ChangePasswordFormComponent implements OnInit {
     DxFormModule,
     DxLoadIndicatorModule
   ],
-  declarations: [ ChangePasswordFormComponent ],
-  exports: [ ChangePasswordFormComponent ]
+  declarations: [ChangePasswordFormComponent],
+  exports: [ChangePasswordFormComponent]
 })
 export class ChangePasswordFormModule { }
