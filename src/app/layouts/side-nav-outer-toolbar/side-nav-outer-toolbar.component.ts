@@ -93,8 +93,8 @@ export class SideNavOuterToolbarComponent implements OnInit {
 }
 
 @NgModule({
-  imports: [ SideNavigationMenuModule, DxDrawerModule, HeaderModule, DxScrollViewModule, CommonModule ],
-  exports: [ SideNavOuterToolbarComponent ],
-  declarations: [ SideNavOuterToolbarComponent ]
+  imports: [SideNavigationMenuModule, DxDrawerModule, HeaderModule, DxScrollViewModule, CommonModule],
+  exports: [SideNavOuterToolbarComponent],
+  declarations: [SideNavOuterToolbarComponent]
 })
 export class SideNavOuterToolbarModule { }
